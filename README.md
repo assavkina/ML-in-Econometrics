@@ -1,1 +1,1 @@
-# ML-in-Econometrics
+# ML-in-Economics
